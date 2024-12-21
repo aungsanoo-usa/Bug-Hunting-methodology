@@ -1,4 +1,4 @@
-Bug Hunting methodology By Aung Lat
+Bug Hunting methodology For Beginner
 -----------------------------------
 
 mkdir example
